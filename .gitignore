@@ -1,0 +1,12 @@
+# Compiled binary addons (https://nodejs.org/api/addons.html)
+build/Release
+
+# Dependency directories
+node_modules/
+vscode-setting/
+jspm_packages/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# End of https://www.toptal.com/developers/gitignore/api/node
